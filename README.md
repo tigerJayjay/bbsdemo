@@ -1,2 +1,2 @@
 # bbsdemo
-A test project
+A test project about communacation of short message. 
